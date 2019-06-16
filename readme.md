@@ -1,5 +1,5 @@
 ## Programming
-[ramda](https://github.com/ramda/ramda) - Functional programming library for JS.
+[ramda](https://github.com/ramda/ramda) - Functional programming library for JS.  
 [partial.lenses](https://github.com/calmm-js/partial.lenses) - high-performance optics library.
 
 ## Data analysis
@@ -22,7 +22,7 @@
 [ngraph.path](https://github.com/anvaka/ngraph.path) - Path finding in a graph.
 
 
-# Game engines
+## Game engines
 [pixi.js](https://github.com/pixijs/pixi.js) - The HTML5 Creation Engine most flexible 2D WebGL renderer.  
 [phaser](https://github.com/photonstorm/phaser) - 2D game framework for making HTML5 games.
 
