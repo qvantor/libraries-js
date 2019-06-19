@@ -21,10 +21,12 @@
 ## Algoritms
 [ngraph.path](https://github.com/anvaka/ngraph.path) - Path finding in a graph.
 
-
 ## Game engines
 [pixi.js](https://github.com/pixijs/pixi.js) - The HTML5 Creation Engine most flexible 2D WebGL renderer.  
 [phaser](https://github.com/photonstorm/phaser) - 2D game framework for making HTML5 games.
+
+## Dev tools
+[husky](https://github.com/typicode/husky) - Husky can prevent bad git commit, git push and more by Git hooks.
 
 ## Other
 [clooney](https://github.com/GoogleChromeLabs/clooney) - simple webworkers.
