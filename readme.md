@@ -14,7 +14,7 @@
 [mobx](https://github.com/mobxjs/mobx) - state management on observables.  
 
 ## Realtime types
-[typed-contracts](https://github.com/bigslycat/typed-contracts) - validation with good Flow and TypeScript type inference.
+[typed-contracts](https://github.com/bigslycat/typed-contracts) - validation with good Flow and TypeScript type inference.  
 [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree) - realtime types for mobx.
 
 ## 2D rendering
