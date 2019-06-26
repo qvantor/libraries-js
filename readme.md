@@ -22,8 +22,7 @@
 [matter-js](https://github.com/liabru/matter-js) - 2D rigid body physics engine.
 
 ## Algoritms
-[ngraph.path](https://github.com/anvaka/ngraph.path) - Path finding in a graph.  
-**[NODEONLY]** [node-fibers](https://github.com/laverdet/node-fibers) - a powerful tool which expose an API to jump between multiple call stacks from within a single thread.
+[ngraph.path](https://github.com/anvaka/ngraph.path) - Path finding in a graph.
 
 ## Game engines
 [pixi.js](https://github.com/pixijs/pixi.js) - The HTML5 Creation Engine most flexible 2D WebGL renderer.  
@@ -40,3 +39,8 @@
 # UI
 ## React UI
 [arui-feather](https://github.com/alfa-laboratory/arui-feather) - alfa bank ui kit (RU).
+
+
+# Interesting experements
+**[NODEONLY]** [node-fibers](https://github.com/laverdet/node-fibers) - a powerful tool which expose an API to jump between multiple call stacks from within a single thread.  
+[$mol_fiber](https://github.com/eigenmethod/mol/tree/master/fiber) - Pausable synchronous executions. Frees main thread every 8ms and continues fiber in next animation frame.
