@@ -42,5 +42,5 @@
 
 
 # Interesting experements
-**[NODEONLY]** [node-fibers](https://github.com/laverdet/node-fibers) - a powerful tool which expose an API to jump between multiple call stacks from within a single thread.  
+[node-fibers](https://github.com/laverdet/node-fibers)**[NODEONLY]** - a powerful tool which expose an API to jump between multiple call stacks from within a single thread.  
 [$mol_fiber](https://github.com/eigenmethod/mol/tree/master/fiber) - Pausable synchronous executions. Frees main thread every 8ms and continues fiber in next animation frame.
