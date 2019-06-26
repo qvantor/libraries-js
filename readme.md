@@ -22,7 +22,8 @@
 [matter-js](https://github.com/liabru/matter-js) - 2D rigid body physics engine.
 
 ## Algoritms
-[ngraph.path](https://github.com/anvaka/ngraph.path) - Path finding in a graph.
+[ngraph.path](https://github.com/anvaka/ngraph.path) - Path finding in a graph.  
+**[NODEONLY]** [node-fibers](https://github.com/laverdet/node-fibers) - a powerful tool which expose an API to jump between multiple call stacks from within a single thread.
 
 ## Game engines
 [pixi.js](https://github.com/pixijs/pixi.js) - The HTML5 Creation Engine most flexible 2D WebGL renderer.  
