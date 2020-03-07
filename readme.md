@@ -28,6 +28,10 @@
 [pixi.js](https://github.com/pixijs/pixi.js) - The HTML5 Creation Engine most flexible 2D WebGL renderer.  
 [phaser](https://github.com/photonstorm/phaser) - 2D game framework for making HTML5 games.
 
+## Testing
+[fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for JavaScript/TypeScript.  
+[jsverify](https://github.com/jsverify/jsverify) - Property-based checking. Like Quickcheck in haskell.
+
 ## Dev tools
 [husky](https://github.com/typicode/husky) - husky can prevent bad git commit, git push and more by Git hooks.  
 [lerna](https://github.com/lerna/lerna) - A tool for managing JavaScript projects with multiple packages.
