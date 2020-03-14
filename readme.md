@@ -34,7 +34,8 @@
 
 ## Dev tools
 [husky](https://github.com/typicode/husky) - husky can prevent bad git commit, git push and more by Git hooks.  
-[lerna](https://github.com/lerna/lerna) - A tool for managing JavaScript projects with multiple packages.
+[lerna](https://github.com/lerna/lerna) - A tool for managing JavaScript projects with multiple packages.  
+[bundlesize](https://github.com/siddharthkp/bundlesize) - tool for bundle size autocheck.
 
 ## Other
 [clooney](https://github.com/GoogleChromeLabs/clooney) - simple webworkers.
