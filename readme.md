@@ -19,6 +19,11 @@
 [typed-contracts](https://github.com/bigslycat/typed-contracts) - validation with good Flow and TypeScript type inference.  
 [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree) - realtime types for mobx.
 
+## React hooks
+[react-spring](https://github.com/react-spring/react-spring) - spring-physics based animation library.  
+[react-query](https://github.com/tannerlinsley/react-query) - fetching, caching and updating asynchronous data.  
+[swr](https://github.com/zeit/swr) - library for remote data fetching.
+
 ## 2D rendering
 [fabric.js](https://github.com/fabricjs/fabric.js) - easy to work with HTML5 canvas element.  
 [matter-js](https://github.com/liabru/matter-js) - 2D rigid body physics engine.
