@@ -2,7 +2,9 @@
 
 ## Programming
 [ramda](https://github.com/ramda/ramda) - Functional programming library for JS.  
-[partial.lenses](https://github.com/calmm-js/partial.lenses) - high-performance optics library.
+[partial.lenses](https://github.com/calmm-js/partial.lenses) - high-performance optics library.  
+[fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript.  
+[monocle-ts](https://github.com/gcanti/monocle-ts) - Functional TypeScript optics.  
 
 ## Data analysis
 [discovery.js](https://github.com/discoveryjs/discovery) - Analyse json to visible and readable output.
