@@ -28,7 +28,15 @@
 
 ## 2D rendering
 [fabric.js](https://github.com/fabricjs/fabric.js) - easy to work with HTML5 canvas element.  
-[matter-js](https://github.com/liabru/matter-js) - 2D rigid body physics engine.
+[matter-js](https://github.com/liabru/matter-js) - 2D rigid body physics engine.  
+[2D physics engine tutorial](https://ailef.tech/2022/11/12/creating-a-2d-physics-engine-from-scratch-in-javascript/) - 2D physics engine from scratch in Javascript.
+
+## Sound
+[wavetable oscillator](https://www.earlevel.com/main/2012/05/04/a-wavetable-oscillator-part-1/) - wavetable oscillator tutorial.  
+[wavetable synthesis](https://thewolfsound.com/sound-synthesis/wavetable-synthesis-algorithm/) - wavetable synthesis algorithm description.  
+[web-midi](https://github.com/djipco/webmidi) - interact with MIDI instruments directly from a web browser.  
+[AudioWorklet examples](https://googlechromelabs.github.io/web-audio-samples/audio-worklet/) - Code examples and resources for AudioWorklet.  
+[Web Audio effects](https://noisehack.com/custom-audio-effects-javascript-web-audio-api/) - Custom Web audio effects examples.  
 
 ## Algoritms
 [ngraph.path](https://github.com/anvaka/ngraph.path) - Path finding in a graph.
@@ -48,7 +56,6 @@
 
 ## Other
 [clooney](https://github.com/GoogleChromeLabs/clooney) - simple webworkers.
-
 
 # UI
 ## React UI
